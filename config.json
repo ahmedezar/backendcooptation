@@ -1,0 +1,4 @@
+{
+  "database": "mongodb+srv://geochat:geochat@cluster0.wpkd0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "token_secret": "Secret"
+}
